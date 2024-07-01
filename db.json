@@ -1,0 +1,19 @@
+{
+  "seller": [
+    {
+      "id": 1
+    },
+    {
+      "name": "Aditya Satpute",
+      "email": "aditya@123.com",
+      "password": "Pass@123",
+      "id": 2
+    },
+    {
+      "name": "Raj Ahherao",
+      "email": "raj@123.com",
+      "password": "Pass@123",
+      "id": 3
+    }
+  ]
+}
